@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Nitheesh Muthu Krishnan C , I'm a se;f made Python Stack developer from TamilNadu , India</p>
+<p align="left">Nitheesh Muthu Krishnan C , I'm a self made Python Stack developer from TamilNadu , India</p>
 
 ###
 
